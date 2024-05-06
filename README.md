@@ -4,11 +4,11 @@ This repository contains Python implementations for simulating and pricing finan
 ## Project Overview
 The project comprises two main parts:
 
-## Basket Call Option Pricing:
+### Basket Call Option Pricing:
 Simulation of two underlying stock prices modeled as geometric Brownian motions.
 Calculation of the price of a basket call option using plain Monte Carlo and the method of conditioning.
 
-## Stochastic Volatility Model:
+### Stochastic Volatility Model:
 Simulation of stock prices under stochastic volatility to estimate the price of a vertical spread option.
 Comparison of straightforward Euler scheme and Euler scheme enhanced with control variates.
 
